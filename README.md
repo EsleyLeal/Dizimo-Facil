@@ -1,4 +1,4 @@
-# Calculadora de Dízimo
+# Study Anywhere
 
 Este é um projeto de uma calculadora de dízimo 
 desenvolvido para fins educacionais e para uso em ambientes religiosos.
