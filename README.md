@@ -1,4 +1,4 @@
-# Study Anywhere
+# Study Anywhere - Estude em qualquer lugar
 
 Este é um projeto de uma calculadora de dízimo 
 desenvolvido para fins educacionais e para uso em ambientes religiosos.
