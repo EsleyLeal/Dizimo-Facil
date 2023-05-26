@@ -303,14 +303,15 @@ if(validacao){
 function calcularDizimo() {
     const valor = document.getElementById('valor').value;
     const dizimo = valor * 0.1;
-    document.getElementById('resultado').innerHTML = `10% do meu salario é: ${dizimo}`;
+    document.getElementById('resultado').innerHTML = `10% do meu salário é: ${dizimo}`;
   }
+
+  function limparCampos() {
+    document.getElementById('valor').value = "";
+    document.getElementById('resultado').innerHTML = "";
+  }
+
   
-
-
-
-
-
 
 
 
